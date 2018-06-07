@@ -1,0 +1,17 @@
+.test h1{
+  color: blue;
+  text-align: center;
+  font-family: times;
+}
+
+.test p {
+  color: green;
+}
+
+body {
+  background-image: url(husky.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+}
