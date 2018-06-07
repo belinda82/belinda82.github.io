@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url(h"usky.jpg");
+  background-image: url("husky.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
