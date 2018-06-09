@@ -1,17 +1,30 @@
-.test h1{
-  color: blue;
-  text-align: center;
-  font-family: times;
+.logo {
+  width: 20%;
 }
 
-.test p {
-  color: green;
+p {
+  font-family: 'Jua', sans-serif;
+  font-size: 5em;
+}
+
+.padding{
+  padding-left: 10%;
+}
+
+.fa-female {
+  color: pink;
+}
+
+h5 {
+  font-family: 'Muli', sans-serif;
+  text-align: justify;
 }
 
 body {
-  background-image: url("husky.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.container {
+  width:50%;
 }
