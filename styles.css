@@ -1,9 +1,10 @@
 .logo {
   width: 20%;
+  border-radius: 50%;
 }
 
-p {
-  font-family: 'Jua', sans-serif;
+.intro {
+  font-family: 'Leckerli One', cursive;
   font-size: 5em;
 }
 
@@ -11,12 +12,16 @@ p {
   padding-left: 10%;
 }
 
+.mainTable{
+  padding-left: 20%;
+}
+
 .fa-female {
-  color: pink;
+  color: #f53088;
 }
 
 h5 {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Leckerli One', cursive;
   text-align: justify;
 }
 
@@ -25,6 +30,36 @@ body {
   margin-right: 5%;
 }
 
+.theme {
+  amily: 'Rufina', serif;
+}
+
 .container {
   width:50%;
+}
+
+.fa-graduation-cap, .fa-home, .fa-dumbbell, .fa-table-tennis, .fa-leaf{
+  color: black;
+  font-size: 5em;
+}
+
+
+
+.references td {
+  padding: 20%;
+}
+
+.uni {
+  max-width: 50%;
+  float:left;
+}
+
+.cholu{
+  max-width: 50%;
+  border-radius: 20%;
+}
+
+.yoga {
+  max-width: 100%;
+  border-radius: 50%;
 }
